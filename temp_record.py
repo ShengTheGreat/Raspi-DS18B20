@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#第一行设置Linux下的解释器，在linux中不可缺少
 
 #mysql数据库包，需安装
 import pymysql
